@@ -1,0 +1,25 @@
+td,th{
+    border: 3px solid black;
+    color: yellow;
+    width: 200px;
+    height: 75px;
+}
+td:hover{
+    border: 3px solid black;
+    background-color: green
+}
+th:hover{
+    border: 3px dotted black;
+    background-color: rgb(17, 64, 219)
+}
+table{
+    border-collapse: collapse;
+    background:linear-gradient(45deg,blue, purple);
+}
+td{
+    font-style: italic;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
